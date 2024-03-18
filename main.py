@@ -1,4 +1,3 @@
-import time
 import pyautogui
 import controls
 import sequence
